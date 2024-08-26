@@ -1,0 +1,52 @@
+
+
+.form{
+  display: flex;
+  flex-direction: column;
+
+  margin: auto;
+  width: 100%;
+  max-width: 550px;
+  padding: 20px;
+  background-color: rgb(44, 124, 170);
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  font-size: 1rem;
+  margin-top: 50px;
+}
+
+.heading{
+  text-align: center;
+}
+
+.box{
+  margin: 10px;
+}
+
+
+.table{
+  margin: 20px 20px;
+}
+
+.tblrow{
+  padding: 30px;
+}
+
+
+.thead{
+  padding: 30px;
+  min-width: 250px;
+  text-align: center;
+}
+
+.btnedit{
+  margin: 0px 20px;
+}
+
+.trdata{
+  text-align: center;
+}
+
+.back{
+  text-decoration: none;
+}
